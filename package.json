@@ -1,0 +1,15 @@
+{
+  "dependencies": {},
+  "name": "otus-aqa-test",
+  "description": "Создано в рамках курса OTUS JavaScript QA Engineer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
